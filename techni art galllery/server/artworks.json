@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Artwork Title 1",
+      "category": "Painting",
+      "thumbnail": "art1.jpg",
+      "fullImage": "art1.jpg"
+    },
+    {
+      "title": "Artwork Title 2",
+      "category": "Sculpture",
+      "thumbnail": "art2.jpg",
+      "fullImage": "art2.jpg"
+    }
+  ]
